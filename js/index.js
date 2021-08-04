@@ -1,6 +1,6 @@
 'use strict'
 
-BONUS_PERCENT = 1.25;
+const BONUS_PERCENT = 1.25;
 
 class Worker {
   constructor(firstName, lastName, daysAtWork, oneDaySalary, workBonus){
